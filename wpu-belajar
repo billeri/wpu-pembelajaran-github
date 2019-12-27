@@ -1,0 +1,14 @@
+pembelajaran istilah istilah digithub
+github
+-folder= repo/ repository
+-rekaman perubahan=commit
+-cabang dari comit=branch
+-perumbahan commit=hash
+-perpindahan sebuah comit=checkout
+-menggabungkan 2 buah branch=merge
+-sumber yang dimiliki repo=remote
+-mengambil repo dari remote=clone
+-mengirim comit ke repo=push
+-mengambil comit dari repo=pull
+yang dikirim dan mengambil adalah comit
+menghubungkan=clone
